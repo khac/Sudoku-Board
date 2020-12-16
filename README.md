@@ -18,7 +18,7 @@
 
 ### Backtracking by example
 <img src="./img/backtrackingByExample2.png" width="300" height="300" />
-<img src="./img/backtrackingByExample.png" width="300" height="300" />
+<img src="./img/backtrackingByExample.png" width="340" height="610" />
 ### Generating a Sudoku Board
 ### Approach
 ### Generating a playable board
