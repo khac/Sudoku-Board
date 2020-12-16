@@ -62,12 +62,10 @@
 <img src="./img/ActionTypes.png" width="581" height="242" />
 
 ### Step 3 - Hooks and Dispatch
-<img src="./img/newGameNumberDispatch.png" width="461" height="209" />
-<img src="./img/componentDispatch.png" width="460" height="147" />
+<img src="./img/newGameNumberDispatch.png" width="461" height="209" /> <img src="./img/componentDispatch.png" width="460" height="147" />
 
 ### React Hooks with Mousetrap
-<img src="./img/mouseTrap1.png" width="300" height="205" />
-<img src="./img/mouseTrap2.png" width="200" height="75" />
+<img src="./img/mouseTrap1.png" width="300" height="205" /> <img src="./img/mouseTrap2.png" width="200" height="75" />
 
 ### Future Considerations
 - Adding different levels of difficulty viz. Easy, Medium and Hard while generating the puzzle
