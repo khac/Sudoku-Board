@@ -56,9 +56,19 @@
 - CSS in the app is added with Styled Components
 
 ### Components
-### Redux store
-### Reducers - Action Types
+<img src="./img/ComponentsDispatch.jpg" width="523" height="251" />
+
+### Reducers - Action Types and State Interface
+<img src="./img/ActionTypes.png" width="581" height="242" />
+
+### Step 3 - Hooks and Dispatch
+<img src="./img/newGameNumberDispatch.png" width="461" height="209" />
+<img src="./img/componentDispatch.png" width="460" height="147" />
+
 ### React Hooks with Mousetrap
+<img src="./img/newGameNumberDispatch.png" width="461" height="209" />
+<img src="./img/componentDispatch.png" width="460" height="147" />
+
 ### Future Considerations
 - Adding different levels of difficulty viz. Easy, Medium and Hard while generating the puzzle
 - Adding 3 different pages, start up page, Sudoku Board and the Completed board page
