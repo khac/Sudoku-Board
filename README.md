@@ -1,6 +1,6 @@
 # Sudoku Solver
 <p align="center">
-  <img src="./img/Screen Shot 2020-12-15 at 10.52.17 PM.png" width="300" height="450" />
+  <img src="./img/Screen Shot 2020-12-15 at 10.52.17 PM.png" width="324" height="410" />
 </p>
 
 
