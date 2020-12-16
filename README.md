@@ -38,6 +38,7 @@
   - The uniqueness of the solution may be lost
   - Multiple solved boards may be possible after k removals
 
+<img src="./img/sudokuBoardKdelete.png" width="423" height="445" />
 
 #### Method 2
 - Keep a counter of numberOfMultipleSoln, initialized to 0
