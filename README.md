@@ -21,6 +21,9 @@
 <img src="./img/backtrackingByExample.png" width="580" height="340" />
 
 ### Generating a Sudoku Board
+<img src="./img/fillingSudokuBoard.png" width="400" height="250" />
+<img src="./img/fillingSudokuBoardEnd.png" width="400" height="250" />
+
 ### Approach
 ### Generating a playable board
 #### Method 1:
