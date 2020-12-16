@@ -1,5 +1,7 @@
 # Sudoku Solver
 ### Introduction
+![](https://docs.google.com/drawings/d/1qRabzjt6-ndwWytWZKC8jf9CQ1vyFybid9Z8G7aTIJg/edit?usp=sharing)
+
 - Sudoku Board is a logic - based, number placement puzzle
 - Each row, column and 3x3 sub-grid should have a unique combination of 1-9 digits
 - There should be no repetition in any row, column or sub-grid
