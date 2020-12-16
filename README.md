@@ -1,4 +1,9 @@
 # Sudoku Solver
+<p align="center">
+  <img src="./img/Screen Shot 2020-12-15 at 10.52.17 PM.png" width="600" height="300" />
+</p>
+
+
 ### Introduction
 
 <p align="center">
