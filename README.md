@@ -1,6 +1,9 @@
 # Sudoku Solver
 ### Introduction
-<img src="./img/sudokuBoard.png" width="300" height="300" />
+
+<p align="center">
+  <img src="./img/sudokuBoard.png" width="300" height="300" />
+</p>
 
 - Sudoku Board is a logic - based, number placement puzzle
 - Each row, column and 3x3 sub-grid should have a unique combination of 1-9 digits
@@ -17,15 +20,25 @@
 - In Sudoku solving puzzle, we try filling digits one by one. Whenever we find that current digit cannot lead to a solution, we remove it (backtrack) and try next digit
 
 ### Backtracking by example
-<img src="./img/backtrackingByExample2.jpg" width="610" height="340" />
-<img src="./img/backtrackingByExample.png" width="580" height="340" />
+<p align="center">
+  <img src="./img/backtrackingByExample2.jpg" width="610" height="340" />
+</p>
+<p align="center">
+  <img src="./img/backtrackingByExample.png" width="580" height="340" />
+</p>
 
 ### Generating a Sudoku Board
-<img src="./img/fillingSudokuBoard (1).png" width="400" height="250" />
-<img src="./img/fillingSudokuBoardEnd.jpg" width="400" height="250" />
+<p align="center">
+  <img src="./img/fillingSudokuBoard (1).png" width="400" height="250" />
+</p>
+<p align="center">
+  <img src="./img/fillingSudokuBoardEnd.jpg" width="400" height="250" />
+</p>
 
 ### Approach
+<p align="center">
 <img src="./img/Screen Shot 2020-12-15 at 9.10.35 PM.png" width="700" height="250" />
+</p>
 
 ### Generating a playable board
 #### Method 1:
@@ -38,7 +51,9 @@
   - The uniqueness of the solution may be lost
   - Multiple solved boards may be possible after k removals
 
+<p align="center">
 <img src="./img/sudokuBoardKdelete.png" width="423" height="445" />
+</p>
 
 #### Method 2
 - Keep a counter of numberOfMultipleSoln, initialized to 0
