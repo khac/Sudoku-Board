@@ -22,7 +22,7 @@
 
 ### Generating a Sudoku Board
 <img src="./img/fillingSudokuBoard (1).png" width="400" height="250" />
-<img src="./img/fillingSudokuBoardEnd.png" width="400" height="250" />
+<img src="./img/fillingSudokuBoardEnd.jpg" width="400" height="250" />
 
 ### Approach
 ### Generating a playable board
