@@ -1,6 +1,6 @@
 # Sudoku Solver
 ### Introduction
-<img src="./image/sudokuBoard.png" width="300" height="300" />
+<img src="./img/sudokuBoard.png" width="300" height="300" />
 
 - Sudoku Board is a logic - based, number placement puzzle
 - Each row, column and 3x3 sub-grid should have a unique combination of 1-9 digits
