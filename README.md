@@ -40,6 +40,10 @@
 - And instead of checking for number of elements to be removed, k this parameter is set to find a board for which a unique board exists
 
 ### Building a responsive UI
+- The app is based on React where the board, new game button and number buttons are divided into components
+- The board is collection of divs, where each item is a Block, and a row is an array of divs
+- CSS in the app is added with Styled Components
+
 ### Components
 ### Redux store
 ### Reducers - Action Types
