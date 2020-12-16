@@ -66,8 +66,8 @@
 <img src="./img/componentDispatch.png" width="460" height="147" />
 
 ### React Hooks with Mousetrap
-<img src="./img/mouseTrap1.png" width="200" height="75" />
-<img src="./img/mouseTrap2.png" width="300" height="205" />
+<img src="./img/mouseTrap1.png" width="300" height="205" />
+<img src="./img/mouseTrap2.png" width="200" height="75" />
 
 ### Future Considerations
 - Adding different levels of difficulty viz. Easy, Medium and Hard while generating the puzzle
