@@ -25,7 +25,7 @@
 <img src="./img/fillingSudokuBoardEnd.jpg" width="400" height="250" />
 
 ### Approach
-<img src="./Screen Shot 2020-12-15 at 9.10.35 PM.png" width="400" height="250" />
+<img src="./img/Screen Shot 2020-12-15 at 9.10.35 PM.png" width="400" height="250" />
 
 ### Generating a playable board
 #### Method 1:
