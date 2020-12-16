@@ -1,8 +1,8 @@
 # Sudoku Solver
 ### Introduction
--Sudoku Board is a logic - based, number placement puzzle
--Each row, column and 3x3 sub-grid should have a unique combination of 1-9 digits
--There should be no repetition in any row, column or sub-grid
+- Sudoku Board is a logic - based, number placement puzzle
+- Each row, column and 3x3 sub-grid should have a unique combination of 1-9 digits
+- There should be no repetition in any row, column or sub-grid
 
 ### Motivation
 - In advanced algorithms class introduced the concept of recursion and backtracking based algorithms
