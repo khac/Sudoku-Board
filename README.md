@@ -5,11 +5,11 @@
 
 
 ### Introduction
-
-//<p align="center">
-//  <img src="./img/sudokuBoard.png" width="300" height="300" />
-//</p>
-
+<!--
+<p align="center">
+  <img src="./img/sudokuBoard.png" width="300" height="300" />
+</p>
+-->
 - Sudoku Board is a logic - based, number placement puzzle
 - Each row, column and 3x3 sub-grid should have a unique combination of 1-9 digits
 - There should be no repetition in any row, column or sub-grid
