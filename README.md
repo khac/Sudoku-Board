@@ -17,6 +17,8 @@
 - In Sudoku solving puzzle, we try filling digits one by one. Whenever we find that current digit cannot lead to a solution, we remove it (backtrack) and try next digit
 
 ### Backtracking by example
+<img src="./img/backtrackingByExample2.png" width="300" height="300" />
+<img src="./img/backtrackingByExample.png" width="300" height="300" />
 ### Generating a Sudoku Board
 ### Approach
 ### Generating a playable board
