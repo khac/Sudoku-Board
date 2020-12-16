@@ -19,6 +19,15 @@
 ### Approach
 ### Generating a playable board
 ### Method 2
+⇒ Keep a counter of numberOfMultipleSoln, initialized to 0
+⇒ Select a random index on the board, 
+⇒ Remove the element from the grid at the index
+⇒ Solve the board, check the total number of solutions that are present,
+⇒ If the total number of solutions is 1, remove the element
+⇒ Else, reinstate the element at the index and increment numberOfMultipleSoln
+⇒ numberOfMultipleSoln, can be explored further for determining the level of difficulty of the board
+⇒ And instead of checking for number of elements to be removed, k this parameter is set to find a board for which a unique board exists
+
 ### Building a responsive UI
 ### Components
 ### Redux store
