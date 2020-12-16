@@ -52,7 +52,7 @@
   - Multiple solved boards may be possible after k removals
 
 <p align="center">
-<img src="./img/sudokuBoardKdelete.png" width="423" height="445" />
+<img src="./img/sudokuBoardKdelete.png" width="424" height="445" />
 </p>
 
 #### Method 2
