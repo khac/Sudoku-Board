@@ -20,11 +20,11 @@
 ### Generating a playable board
 #### Method 1:
 - Randomly, delete k elements from the Sudoku Grid
-Advantage:
-- Quick implementation,
-- Generate k pairs of indices on the board,
-- Assign values to null
-Disadvantage:
+- Advantage:
+- - Quick implementation,
+- - Generate k pairs of indices on the board,
+- - Assign values to null
+- Disadvantage:
 - The uniqueness of the solution may be lost
 - Multiple solved boards may be possible after k removals
 
