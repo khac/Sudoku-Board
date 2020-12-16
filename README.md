@@ -59,3 +59,7 @@
 ### Redux store
 ### Reducers - Action Types
 ### React Hooks with Mousetrap
+### Future Considerations
+- Adding different levels of difficulty viz. Easy, Medium and Hard while generating the puzzle
+- Adding 3 different pages, start up page, Sudoku Board and the Completed board page
+
